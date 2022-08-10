@@ -22,6 +22,7 @@ function App() {
         <p>14</p>
         <p>31</p>
         <p>7</p>
+        <p>4</p>
       </header>
     </div>
   );
